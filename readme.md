@@ -1,3 +1,8 @@
+![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=isaaclo97.programacion-competitiva&color=be54c6&style=flat&logo=Github)
+![Manintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![GitHub last commit (master)](https://img.shields.io/github/last-commit/isaaclo97/programacion-competitiva)
+![Starts](https://img.shields.io/github/stars/isaaclo97/programacion-competitiva.svg)
+
 # Programación Competitiva - Isaac Lozano Osorio
 
 ## Concursos
